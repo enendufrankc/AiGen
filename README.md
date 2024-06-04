@@ -1,4 +1,4 @@
-![AiGen Logo](https://www.canva.com/design/DAGHHLZqeMg/hV1QzBPSH2nrRDtMO2ZkdQ/)
+![AiGen Logo](https://www.canva.com/design/DAGHHLZqeMg/6xnPQU1DQET7KzlWIHrPUA/view?utm_content=DAGHHLZqeMg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 # AiGen: AI Implementation Use Cases for Developers
 
