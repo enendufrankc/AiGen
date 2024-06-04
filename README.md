@@ -1,4 +1,4 @@
-![AiGen Logo](https://www.canva.com/design/DAGHHLZqeMg/6xnPQU1DQET7KzlWIHrPUA/view?utm_content=DAGHHLZqeMg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![Alt text](https://media.licdn.com/dms/image/D4E16AQHJdljrUjzGSg/profile-displaybackgroundimage-shrink_350_1400/0/1717215519608?e=1723075200&v=beta&t=bS1Riy6i6pdV-GYbzY22kmL0IyYqY5sfe5sVhCQAups)
 
 # AiGen: AI Implementation Use Cases for Developers
 
